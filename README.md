@@ -3,7 +3,7 @@
 <H1 ALIGN=CENTER> Experiment-1: Implementation of Bayesian Networks</H1>
 
 ### Name: Kavipriya SP
-### Register Number:2305002011
+### Register Number: 2305002011
 
 
 ## Aim:
@@ -140,6 +140,7 @@ plt.show()
 ---
 
 ## Output:
+```
 Date Location  MinTemp  MaxTemp  Rainfall  Evaporation  Sunshine  \
 0  01-12-2008   Albury     13.4     22.9       0.6     5.469824  7.624853   
 1  02-12-2008   Albury      7.4     25.1       0.0     5.469824  7.624853   
@@ -174,8 +175,12 @@ Date Location  MinTemp  MaxTemp  Rainfall  Evaporation  Sunshine  \
 2          1.40-50         0.<=60         0.<=60  
 3           0.<=40         0.<=60         0.<=60  
 4          1.40-50          1.>60         0.<=60
+```
 
-<img width="564" height="481" alt="image" src="https://github.com/user-attachments/assets/1d05fece-2d33-4c58-bbb7-e9bf86d2b2ed" />
+<img width="564" height="481" alt="image" src="https://github.com/user-attachments/assets/80a0499d-66c7-4a9a-9d34-f4f53f8cbcf3" />
+
+
+
 
 ---
 
