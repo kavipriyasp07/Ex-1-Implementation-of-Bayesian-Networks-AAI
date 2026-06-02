@@ -1,4 +1,4 @@
-<H3 ALIGN=RIGHT> DATE:<H3>
+<H3 ALIGN=LEFT> DATE:<H3>
 
 <H1 ALIGN=CENTER> Experiment-1: Implementation of Bayesian Networks</H1>
 
